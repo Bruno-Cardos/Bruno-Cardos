@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bruno-Cardos 😁
+## Bem-vindo(a) ao perfil do Bruno-Cardoso😁
 
  <div>
    <a href="https://github.com/Bruno-Cardos">
