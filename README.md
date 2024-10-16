@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Bruno-Cardoso😁
 
  <div>
-   <a href="https://github.com/Bruno-Cardos">
+   <a href="https://github.com/Bruno-Cardoso">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Cardos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Cardos&layout=compact&langs_count=6&theme=tokyonight"/>
 
